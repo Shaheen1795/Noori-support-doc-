@@ -1,0 +1,31 @@
+ Privacy Policy for Noori
+
+Last Updated: October 6, 2026
+Noori ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, and disclosure of information through the Noori mobile application (the "App").
+
+1. Information Collection & Use
+
+Location Data
+
+Noori requires access to your device’s precise GPS location to calculate accurate, hyper-localized prayer times and calendar configurations.
+
+• On-Device Processing Only: All location calculations are performed strictly locally on your device's internal processor. Your geographical coordinates are never uploaded, stored, or transmitted to any external servers or third parties.
+Personal Information
+Noori does not require a user account, registration, name, email address, or phone number to function. We collect absolutely zero personal identifying information.
+
+2. Advertising and Analytics
+• No Advertisements: Noori is 100% ad-free. There are no tracking scripts, ad banners, or interstitial pop-ups embedded in the App.
+• No Analytics: We do not use third-party analytics SDKs (such as Firebase Analytics or Google Analytics) to track your in-app actions, behavior, or device hardware data.
+
+3. Data Storage and Retention
+Because all core scheduling and prayer calculations occur locally within the app's secure runtime memory sandboxing layout, we do not own or maintain cloud databases. If you delete the app from your device, all locally cached coordinate references are instantly erased.
+
+4. Children’s Privacy
+Our App does not collect any data or market to anyone under the age of 13. Since zero data is harvested globally across our ecosystem, the app is fully compliant with the Children's Online Privacy Protection Act (COPPA).
+
+5. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Any changes will be posted directly within our repository documentation with a revised "Last Updated" date.
+
+6. Contact Us
+If you have any questions or feedback regarding this privacy model, please contact us at:
+• Email: shaheen17995@gmail.com(Replace with your actual support email)
